@@ -15,3 +15,6 @@ Configuration file (cpuz.ini)
 
 The configuration file must be named cpuz.ini and be present at the same directory level
 as cpuz.exe. It contains the following :
+
+[CPU-Z]
+VERSION=x.x.x.x

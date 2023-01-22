@@ -1,0 +1,10 @@
+CPU-Z Readme file
+------------------
+
+Version 1.95
+January 2021
+Contact : cpuz@cpuid.com
+Web page: https://www.cpuid.com/softwares/cpu-z.html
+Validation page : https://valid.x86.fr/
+Hall of Fame : https://valid.x86.fr/records.php
+CPUID SDK : http://www.cpuid-pro.com/products-services.php

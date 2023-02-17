@@ -15,3 +15,5 @@ Configuration file (cpuz.ini)
 
 delet
 -------------------------------
+
+new branch info 

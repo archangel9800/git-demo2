@@ -13,8 +13,6 @@ CPUID SDK : http://www.cpuid-pro.com/products-services.php
 Configuration file (cpuz.ini)
 ------------------------------
 
-delet
--------------------------------
 
 new branch info 
 
